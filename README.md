@@ -1,6 +1,6 @@
 # hotel_booking_cancellation_EDA
 
-**LinkedIn Post: Exploring Hotel Booking Cancellation Patterns 🏨📊**
+ Exploring Hotel Booking Cancellation Patterns 🏨📊**
 
  👋🏼 Excited to share some insights from my recent data analysis project focused on hotel booking cancellations. 🏨💼
 
