@@ -35,9 +35,4 @@ Feel free to check out the detailed analysis for a deeper dive into the numbers 
 
 Have any questions or thoughts about the analysis? I'd love to hear from fellow data enthusiasts and hospitality professionals. Let's connect and discuss how data-driven insights can transform the hotel industry! 🌟
 
-#DataAnalysis #HotelIndustry #Cancellations #RevenueManagement #DataDrivenInsights #HospitalityAnalytics
-
-[Insert Relevant Visualizations/Images]
-[Include Link to Your LinkedIn Profile]
-
 Looking forward to engaging discussions! 🤝🏼
